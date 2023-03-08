@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "hash": "52ace1c1bc67394effd7a1091b89521e1410042d",
+  "configuration": {
+    "entity": "podemoService.PurchaseOrders",
+    "phase": "before",
+    "events": [
+      ""
+    ]
+  },
+  "codes": [
+    {
+      "type": "Assignment",
+      "result": "data",
+      "expression": {
+        "syntax": "context.request.data",
+        "dependencies": [
+          "Variable"
+        ]
+      }
+    },
+    {
+      "type": "CustomCode",
+      "syntax": "data.RequestId = 'PR0001'"
+    }
+  ]
+}
