@@ -1,0 +1,7 @@
+ID;MaterialCode;MaterialDesc;Quantity;Price;purchaseOrders_ID
+0b1d8584-aa09-42ae-9dba-2e85ebdc1444;MaterialCode8710;MaterialDesc7510;3819;256.72;427deb24-3efe-46b8-a0a6-1870ccc97373
+fe34209f-d5e1-497f-b761-faa56a71971b;MaterialCode7800;MaterialDesc9514;9285;104.41;427deb24-3efe-46b8-a0a6-1870ccc97373
+f08d2e62-8144-4d8f-8357-cce945b3c090;MaterialCode7368;MaterialDesc4860;4992;964.38;5fc127cd-5a09-4d65-a184-6a49d469690f
+cebfa8ed-afd1-4348-bbd0-b1d980058383;MaterialCode8396;MaterialDesc7545;5888;332.23;5fc127cd-5a09-4d65-a184-6a49d469690f
+bb215ec3-7077-4e0b-bdb0-39e2b0a387c3;MaterialCode3032;MaterialDesc2895;5768;843.60;4640dbbb-81b6-41b4-84b4-217d3a500c29
+cd89406e-921d-45e2-b1b8-42ec4ee5cd31;MaterialCode945;MaterialDesc5149;4996;255.33;4640dbbb-81b6-41b4-84b4-217d3a500c29
